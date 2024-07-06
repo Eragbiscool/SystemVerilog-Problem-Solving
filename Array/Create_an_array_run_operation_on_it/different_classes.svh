@@ -18,3 +18,6 @@ class multiply_each_with_something extends array_sort #(6,101,1000);
   extern function int multiply_it_with(int multiplicand);
   extern function int display();
 endclass
+
+//Called method(function) definition file
+`include "functions.svh"
