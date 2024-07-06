@@ -1,5 +1,4 @@
 `include "different_classes.svh"
-`include "functions.svh"
 
 
 module tb;
